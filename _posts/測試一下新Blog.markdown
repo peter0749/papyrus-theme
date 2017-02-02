@@ -1,11 +1,11 @@
-----
--layout: post
--title: 測試
--date: 2017-02-03 02:43
--comments: true
--external-url:
--categories: test
-----
+---
+layout: post
+title: 測試
+date: 2017-02-03 02:43
+comments: true
+external-url:
+categories: test
+---
 
 
 # 測試一下
