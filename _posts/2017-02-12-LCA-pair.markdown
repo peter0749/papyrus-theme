@@ -23,11 +23,11 @@ Lowest Common Ancestor
 ## 限制
 
 <center>
-$$1<=T<=100$$
+$$1 \leq T \leq 100$$
 
-$$2<=n<=100000$$
+$$2 \leq n \leq 100000$$
 
-$$1<=p_{i}<i$$
+$$1 \leq p_{i} < i$$
 </center>
 
 ## 輸出格式
