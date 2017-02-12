@@ -82,7 +82,7 @@ int main(void) {
             g[v].push_back(i);
         }
         dfs(1);
-        //for(int i=1; i<=n; ++i) printf("?? %lld\n", sz[i]);
+        //for(int i=1; i<=n; ++i) printf("?? %lld\n", sz[i]);        
 
         for(int i=1; i<=n; ++i) {
             if(i!=1) putchar(' ');
