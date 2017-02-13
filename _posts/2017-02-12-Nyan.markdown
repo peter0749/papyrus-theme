@@ -38,6 +38,8 @@ nyan nyan cat.
 $$\forall{cat \in Rainbow},{Nyan(cat)}$$
 </center>
 
+> $$\sum_{i=1}^{n}{i} = \frac{n(n+1)}{2}$$
+
 ## Nyan
 ```
 NyanNyanNyanNyanNyan
