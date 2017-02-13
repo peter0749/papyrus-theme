@@ -38,7 +38,14 @@ nyan nyan cat.
 $$\forall{cat \in Rainbow},{Nyan(cat)}$$
 </center>
 
+Nyan Nyan...
+
 > $$\sum_{i=1}^{n}{i} = \frac{n(n+1)}{2}$$
+
+> $$ C_{3\times 3} =  \left( \begin{array}{ccc} 
+Nyan & Nyan & Nyan \\
+Nyan & Nyan & Nyan \\
+Nyan & Nyan & Nyan \end{array} \right)$$
 
 ## Nyan
 ```
