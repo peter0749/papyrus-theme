@@ -65,3 +65,21 @@ Nyan!?!?
 Nyan!?!?
 ```
 
+## Meow
+{% highlight cpp linenos=table %}
+#include <stdio.h>
+#include <string.h>
+const size_t MAXN=100010;
+char input[MAXN];
+const char *nyan="Nyan";
+
+int main(void) {
+    while( (fgets(input,sizeof(input)-1, stdin)) != NULL ) {
+        int i;
+        for(i=0; input[i]!='\n' && input[i]==nyan[i%4]; ++i );
+        puts(input[i]=='\n'&&!(i%4)?"Nyan":"Nyan!?!?");
+    }
+    return 0;
+}
+
+{% endhighlight %}
