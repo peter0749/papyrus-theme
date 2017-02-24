@@ -4,7 +4,7 @@ title: POJ2139 -- Six Degrees of Cowvin Bacon
 date: 2017-02-24 20:47
 comments: true
 external-url:
-categories: Shortest_Path
+categories: Shortest Path
 ---
 
 Floyd-Warshall
