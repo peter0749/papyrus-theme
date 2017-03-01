@@ -8,6 +8,7 @@ categories: water
 ---
 
 Range Sum Query 2D - Immutable
+
 Difficulty: Medium
 
 ## 題目敘述
@@ -24,6 +25,7 @@ Leet Code 比較特別，有點像是要你完成一個 Function。
 
 ## 程式碼:
 最近初學 Java ，剛好可以練習一下。
+
 提供 Build: O(nm), Query: O(1) 的解法，這題 Query: O(n) 也可以過。
 
 {% highlight java linenos=table %}
